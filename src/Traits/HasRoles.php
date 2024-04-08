@@ -4,7 +4,7 @@ namespace Maklad\Permission\Traits;
 
 use Illuminate\Support\Collection;
 use Jenssegers\Mongodb\Eloquent\Builder;
-use Jenssegers\Mongodb\Eloquent\Model;
+use MongoDB\Laravel\Eloquent\Model;
 use Jenssegers\Mongodb\Relations\BelongsToMany;
 use Maklad\Permission\Contracts\RoleInterface as Role;
 use Maklad\Permission\Helpers;
