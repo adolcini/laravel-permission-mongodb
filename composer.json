@@ -1,5 +1,5 @@
 {
-    "name": "mostafamaklad/laravel-permission-mongodb",
+    "name": "adolcini/laravel-permission-mongodb",
     "description": "Permission handling for Laravel 5.2 and up using mongodb",
     "keywords": [
         "laravel",
@@ -7,19 +7,19 @@
         "mongodb",
         "permission",
         "acl",
-        "mostafamaklad",
+        "adolcini",
         "maklad",
         "mostafa",
         "spatie",
         "jenssegers"
     ],
-    "homepage": "https://github.com/mostafamaklad/laravel-permission-mongodb",
+    "homepage": "https://github.com/adolcini/laravel-permission-mongodb",
     "license": "MIT",
     "authors": [
         {
             "name": "Mostafa Maklad",
             "email": "dev.mostafa.maklad@gmail.com",
-            "homepage": "https://github.com/mostafamaklad",
+            "homepage": "https://github.com/adolcini",
             "role": "Developer"
         },
         {
